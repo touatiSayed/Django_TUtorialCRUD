@@ -1,3 +1,7 @@
+
+import pymysql
+pymysql.install_as_MySQLdb()
+
 """
 Django settings for bzkRestApisMySQL project.
 
